@@ -4,7 +4,6 @@ namespace ConsoleGameSuite
 {
     class Program
     {
-        static int number = 10;
         static void Main(string[] args)
         {
             bool running = true;
